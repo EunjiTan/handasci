@@ -21,7 +21,7 @@ Transform your webcam feed into real-time ASCII art using hand gestures! This in
 
 ## 🚀 Demo
 
-[Live Demo on Vercel](https://handasci.vercel.app) *(Replace with your actual URL)*
+[Live Demo on Vercel](https://handasci.vercel.app) 
 
 ## 🛠️ Tech Stack
 
@@ -33,3 +33,4 @@ Transform your webcam feed into real-time ASCII art using hand gestures! This in
 
 ## 📦 Installation
 ```bash
+
